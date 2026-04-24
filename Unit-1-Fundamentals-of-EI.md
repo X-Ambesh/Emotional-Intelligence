@@ -64,3 +64,45 @@ its components
   - EI is an important part of how we behave and interact with others
   - Building and improving emotional intelligence can greatly benefit personal growth, relationships, well-being, and career success
 ---
+
+### *Building Blocks of EI*
+
+The Building blocks of EI are fundamantal skills and abilities that contribute to its development. These Building Blocks Include
+
+---
+
+1. *Self-Awareness*
+	- This involvs recognizing and understanding one's own emotions, strengts, weakness, values ,and motivations
+	- It includes begin able to accurately asses one's feeling in the moment
+---
+2. *Self-Regulation*
+   - Self-Regulation is the ability to control and manage one's emotions, impulses, and reactions
+   - it includes staying calm under pressure, adapting to changes and handling stress effectively
+---
+3. *Social Awareness*
+	- Social awarness means understanding the feeling, needs, and concern of others It inlolves noticing social signals like body language, and being able to empathize with people Key parts of social awarness include
+	- *Empathy*
+    	- Understanding and sharing how someone else feels It's about putting yourself in their position, recognizing their emotions, and responding kindly
+  	- *Perspective taking* 
+    	- Seeing things from another person's point of view and understanding their thoughts and emothins It means being open to different options and ways of thinking
+---
+4. *Relationship Management*
+	- relationship management refers to the ability to build ad maintain healthy relationships, resolve conflcts and influence others positively
+	- It involves effective comunication, teamwork and leadership skills
+	- *Key elements of relationship management*
+    	- *Effective communication* 
+        	- being able 	to express onself clearly, listen actively, and convey message in a way that is understood and respected by others It involves bot verbal and nonverbal communication skills
+      	- *Conflict resolution*
+        	- The ability to idntify ad address conflicts in a constructive and respectful manner 
+        	- It involves actively listening to different perspective, finding common ground, and seeking mutually benefical solutions
+      	- *Influencing Others* 
+        	- The skill to inspire and motivate others, gain their suppot andguide them towerds a common objective
+        	- It involves effective persuasion, negotiation and leadership skills
+
+---
+
+### *Conslusion*
+
+- The building blocks of EI are connected and suppot each other
+- When you strengthen one it can help improve the others leading to overall growth in EI
+- Remember EI is a skill you can build and improve over time by reflecting on yourself, practing and learning from your experiences
