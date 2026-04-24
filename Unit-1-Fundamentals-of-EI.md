@@ -1,6 +1,7 @@
 ## *Unit-1*
 ###  *Fundamentals of Emotional Intelligence*
 ---
+### _Topics_
 1. Nature & Significane
 2. Models of Emotional Intlligence : Abality ,Trait and Mixed 
 3. Buliding Blocks of Emotional Inteligence : Self Awareness , seflManagement , social awerencess and relationship managment 
